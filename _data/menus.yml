@@ -1,17 +1,17 @@
-- name: HOME
-  url: /
+- name: START
+  url: /Start/
   icon: home
-- name: CATEGORY
-  url: /category/
+- name: MARKETPLACE
+  url: /Marketplace/
   icon: "&#xe53b;"
-- name: TAGS
-  url: /tags/
+- name: COMMUNITY
+  url: /Community/
   icon: "&#xe893;"
-- name: FRIENDS
-  url: /friends/
+- name: MONEY
+  url: /Money/
   icon: "&#xe8a3;"
-- name: EDITOR
-  url: /editor/
+- name: ABOUT
+  url: /About/
   icon: "&#xe150;"
 - name: navSearch
   switch: true
